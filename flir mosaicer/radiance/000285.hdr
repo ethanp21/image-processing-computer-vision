@@ -1,0 +1,12 @@
+ENVI
+description = FLIR Radiance
+samples = 640
+lines = 512
+bands = 1
+header offset = 0
+data type = 4
+interleave = bip
+sensor type = ENVI
+byte order = 0
+geo points = {320.0, 256.0, 35.95601155850862, -75.64214877942754}
+acquisition time = 2021-11-14T16:11:25.500311
